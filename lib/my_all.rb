@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def my_all?(collection)
   block_return_values = []
